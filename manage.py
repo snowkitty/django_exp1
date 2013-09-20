@@ -9,6 +9,5 @@ if __name__ == "__main__":
 
     print 'hello'
     print 'server2'
-    print 'hello from server1'
 
     execute_from_command_line(sys.argv)
