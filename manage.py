@@ -9,5 +9,6 @@ if __name__ == "__main__":
 
     print 'hello'
     print 'server2'
+    print 'insert server1 back'
 
     execute_from_command_line(sys.argv)
